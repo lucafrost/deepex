@@ -10,7 +10,7 @@ scipy
 spacy==3.0.2
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm
 tqdm
-transformers==4.10.3
+transformers==4.36.0
 wget
 # supervised-oie-dependency below
 certifi
